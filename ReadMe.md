@@ -25,7 +25,7 @@ This is a **Full Stack Application** built with **ASP.NET Core (Backend)** and *
 
 ### Clone the Repository
 
-	git clone https://github.com/cr-Cool/Employment-Verification.git
+	git clone https://github.com/cr-Cool/EmploymentVerification.git
 	cd EmploymentVerification
 
 
